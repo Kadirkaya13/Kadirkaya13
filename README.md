@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- <h3>🔭 I’m currently working on Admin panel infrastructure</h3>
-- <h3>🌱 I’m currently learning E-commerce infrastructure</h3>
-- <h3>⚡ Fun fact: I love video games</h3>
+- <h5>🔭 I’m currently working on Admin panel infrastructure</h5>
+- <h5>🌱 I’m currently learning E-commerce infrastructure</h5>
+- <h5>⚡ Fun fact: I love video games</h5>
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
